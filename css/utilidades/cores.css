@@ -1,5 +1,5 @@
 :root {
-  --cor-0: #fff;
+  --cor-0: #ffffff;
   --cor-1: #f7f7f7;
   --cor-2: #ededed;
   --cor-3: #dedede;
@@ -16,8 +16,9 @@
   --cor-p2: #e4a30b;
   --cor-p3: #a66f00;
   --cor-p4: #664400;
-  --cor-p5: #320;
+  --cor-p5: #332200;
 }
+
 .cor-0 {
   color: var(--cor-0);
 }
@@ -57,7 +58,7 @@
 .cor-12 {
   color: var(--cor-12);
 }
-.cor-p1{
+.cor-p1 {
   color: var(--cor-p1);
 }
 .cor-p2 {
